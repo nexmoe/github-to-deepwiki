@@ -8,6 +8,8 @@ This userscript automatically adds a "DeepWiki" link to GitHub repository pages,
 
 这个油猴脚本会自动在 GitHub 仓库页面添加一个 "DeepWiki" 链接，让用户只需点击一下就能快速跳转到对应的 DeepWiki 页面。链接会出现在仓库的简介部分，使得在浏览 GitHub 时能够轻松访问。
 
+![6bdeb6b64ea67a03002d7e240dcc37b0.png](https://i.dawnlab.me/6bdeb6b64ea67a03002d7e240dcc37b0.png)
+
 ## Features | 功能特点
 
 - Automatically adds a DeepWiki link to GitHub repository pages
